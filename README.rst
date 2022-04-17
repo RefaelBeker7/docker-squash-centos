@@ -1,15 +1,5 @@
 ``docker-squash``
 ==================
-
-.. image:: https://circleci.com/gh/goldmann/docker-squash.svg?style=svg
-    :target: https://circleci.com/gh/goldmann/docker-squash
-
-.. image:: https://landscape.io/github/goldmann/docker-squash/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/goldmann/docker-squash/master
-
-.. image:: https://badges.gitter.im/Join%20Chat.svg
-   :target: https://gitter.im/goldmann/docker-squash
-
 The problem
 -----------
 
